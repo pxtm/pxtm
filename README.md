@@ -3,7 +3,7 @@ pxtm/pxtm is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A catalan bioinformatician in healthcare business area with a microbiome&metabolome background</h3>
+<h3 align="center">A catalan bioinformatician in healthcare research with an all-omics background and special love for metagenomics</h3>
 
 - 🔭 I’m currently working as a **bioinformatician in a bit of everything analytics in the healthcare space**
 
