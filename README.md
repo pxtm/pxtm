@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 Everything I've published, the methods I use, and how it all connects —
 rendered as an interactive graph.
 
-[![knowledge graph preview](https://pxtm.github.io/myKG_expanded/knowledge_graph.svg)](https://pxtm.github.io/myKG_expanded/)
+[![knowledge graph preview](https://pxtm.github.io/myKG_expanded/expertise_map.svg)](https://pxtm.github.io/myKG_expanded/)
 
 **→ [Explore the interactive graph](https://pxtm.github.io/myKG_expanded/)**
 
