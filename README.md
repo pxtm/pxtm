@@ -3,13 +3,33 @@ pxtm/pxtm is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A catalan bioinformatician in healthcare research with an all-omics background and special love for metagenomics</h3>
+<h3 align="center">A catalan bioinformatician/biomedical researcher working on 
+**metabolomics**, **multi-omics integration**, **microbiome**, and **biomarker discovery**
+ across colorectal & prostate cancer, type 1/2 diabetes, fibromyalgia, and liver disease.</h3>
+
 
 - 🔭 I’m currently working as a **bioinformatician in a bit of everything analytics in the healthcare space**
 
 - 💬 Ask me about **R, python, omics analysis, pipeline development**
 
 - ⚡ Fun fact **I still shot in analogue**
+
+
+---
+
+#### 🧭 Research Knowledge Graph
+
+Everything I've published, the methods I use, and how it all connects —
+rendered as an interactive graph.
+
+[![knowledge graph preview](https://pxtm.github.io/myKG_expanded/knowledge_graph.svg)](https://pxtm.github.io/myKG_expanded/)
+
+**→ [Explore the interactive graph](https://pxtm.github.io/myKG_expanded/)**
+
+- [Full knowledge graph](https://pxtm.github.io/myKG_expanded/knowledge_graph.html) — papers · repos · authors · concepts
+- [Expertise map](https://pxtm.github.io/myKG_expanded/expertise_map.html) — topic-centric view
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
