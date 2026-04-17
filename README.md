@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A catalan bioinformatician/biomedical researcher working on 
-**metabolomics**, **multi-omics integration**, **microbiome**, and **biomarker discovery**
- across colorectal & prostate cancer, type 1/2 diabetes, fibromyalgia, and liver disease.</h3>
+metabolomics, multi-omics integration, microbiome and biomarker discovery
+in the molecular omics and clinical data intersection.</h3>
 
 
 - 🔭 I’m currently working as a **bioinformatician in a bit of everything analytics in the healthcare space**
