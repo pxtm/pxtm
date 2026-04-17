@@ -22,7 +22,6 @@ in the molecular omics and clinical data intersection.</h3>
 Everything I've published, the methods I use, and how it all connects —
 rendered as an interactive graph.
 
-# [![knowledge graph preview](https://pxtm.github.io/myKG_expanded/expertise_map.png)](https://pxtm.github.io/myKG_expanded/)
 [![knowledge graph preview](expertise_map.png)](https://pxtm.github.io/myKG_expanded/)
 
 **→ [Explore the interactive graph](https://pxtm.github.io/myKG_expanded/)**
